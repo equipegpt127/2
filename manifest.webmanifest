@@ -1,0 +1,12 @@
+{
+  "name": "AquaGestão Camarão",
+  "short_name": "AquaGestão",
+  "description": "Ferramentas offline para apoio à gestão de fazendas de carcinicultura.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef6f7",
+  "theme_color": "#075f68",
+  "icons": []
+}
